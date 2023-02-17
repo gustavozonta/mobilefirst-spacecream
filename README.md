@@ -30,10 +30,6 @@ This project was made for mobile devices and show a bit of css @keyframes  </p>
 
 https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First?node-id=12%3A137&t=IciInOApRBCF7VvK-0
 
-## Link
-
-https://gustavozonta.github.io/mobilefirst-spacecream/
-
 ## :memo: License
 
 This project is above the MIT license.
