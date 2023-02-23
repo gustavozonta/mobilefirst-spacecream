@@ -1,4 +1,4 @@
-<h1 align="center"> Grid with animations - Space Cream </h1>
+<h1 align="center"> Space Cream - Mobile and Desktop </h1>
 
 <p align="center">
   <a href="#-tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -8,6 +8,16 @@
 </p>
 
 <br>
+
+<h2 align="center"> Mobile </h2>
+
+<p align="center">
+  <img alt="layouts-css-grid" src="./assets/mobile-spacecream.png" width="100%">
+</p>
+
+<br>
+
+<h2 align="center"> Desktop </h2>
 
 <p align="center">
   <img alt="layouts-css-grid" src="./assets/READMEimg.png" width="100%">
