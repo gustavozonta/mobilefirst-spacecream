@@ -1,4 +1,4 @@
-<h1 align="center"> Mobile First - Space Cream </h1>
+<h1 align="center"> Grid with animations - Space Cream </h1>
 
 <p align="center">
   <a href="#-tecnologias">Technology</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,11 +24,11 @@ This project was developed with the technologies below:
 ## 💻 Project
 
 <p align="start">
-This project was made for mobile devices and show a bit of css @keyframes  </p>
+This is a responsive project for mobile device and desktop. It was make with grid and animations such as slide the span of the images, slide the images.  </p>
 
-## Figma
+## Figma Link
 
-https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First?node-id=12%3A137&t=IciInOApRBCF7VvK-0
+<a href="https://www.figma.com/file/pIdQBriW6ktJghGQSSaPXo/Stage-03---Grid-com-anima%C3%A7%C3%B5es-(Copy)?node-id=0%3A3&t=nJsIHvVJ8d93b7sJ-0" target="_blank"> Click here </a>
 
 ## :memo: License
 
