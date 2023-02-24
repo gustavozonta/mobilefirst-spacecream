@@ -34,7 +34,7 @@ This project was developed with the technologies below:
 ## 💻 Project
 
 <p align="start">
-This is a responsive project for mobile device and desktop. It was make with grid and animations such as slide the span of the images, slide the images.  </p>
+This is a responsive project for mobile device and desktop. It was make with grid and animations </p>
 
 ## Figma Link
 
